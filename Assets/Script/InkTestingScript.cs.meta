@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 649b1113ef35f5e41aa1a33d74078183
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inkJSON: {fileID: 4900000, guid: 94efb40ea3d5afb4996c754f6e5952b0, type: 3}
+  - textPrefab: {instanceID: 0}
+  - buttonPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
